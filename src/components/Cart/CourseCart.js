@@ -30,13 +30,14 @@ export default class CourseCart extends Component {
                         <p className="text-muted">
                         <small>{node.description.description}</small>
                         </p>
-                        <button 
-                        data-item-id= {node.id}
-                        data-item-price={node.price}
-                        data-item-url="https://rishabh-chauhan-rs3020.netlify.app/"
-                        data-item-image={node.image.fixed.src}
-                        data-item-name={node.title}
-                        className="btn btn-info snipcart-add-item">Join Now</button>
+                            <button 
+                            data-item-id= {node.id}
+                            data-item-name={node.title}
+                            data-item-price={node.price}
+                            data-item-url="https://rishabh-chauhan-rs3020.netlify.app/"
+                            data-item-image={node.image.fixed.src}
+                            className = "btn btn-info snipcart-add-item">Join Now
+                            </button>
                         </div>
                         </div>
                     )

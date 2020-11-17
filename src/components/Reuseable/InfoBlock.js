@@ -18,7 +18,7 @@ export default function InfoBlock({heading}) {
         Anim reprehenderit magna esse qui ullamco culpa culpa mollit.
         </p>
         <Link to="/about/">
-        <button className="btn btn-info btn-lg btn-block">
+        <button className="btn btn-info btn-lg">
         {heading}
         </button>
         </Link>

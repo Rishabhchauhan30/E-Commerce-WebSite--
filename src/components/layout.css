@@ -25,3 +25,11 @@
 .btn-warning{
   padding: 7px 30px;
 }
+
+.service-background {
+  min-height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

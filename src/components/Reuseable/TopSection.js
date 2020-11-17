@@ -7,11 +7,11 @@ export default function TopSection( {img, title, subtitle, topclass} ) {
         className={topclass}
           fluid={img}
         >
-        <h1 className="text-white text-uppercase text-center display-4">
+        <h1 className="text-secondary text-uppercase text-center display-6">
         {title}
         </h1>
         <div>
-        <h4 className="text-warning">{subtitle}</h4>
+        <h4 className="text-danger  display-6">{subtitle}</h4>
         </div>
         </BackgroundImage>
     )

@@ -4,9 +4,8 @@ import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import TopSection from '../components/Reuseable/TopSection'
-import InfoBlock from '../components/Reuseable/InfoBlock'
-import DualInfoBlock from '../components/Reuseable/DualInfoBlock'
-
+import CourseCart from '../components/Cart/CourseCart'
+import BundleCart from '../components/Cart/BundleCart'
 
 const IndexPage = ({data}) => (
   <Layout>
@@ -15,16 +14,16 @@ const IndexPage = ({data}) => (
     img = {data.img.childImageSharp.fluid}
 
     title=""
-    subtitle="MyWebsite.com"
-    topclass="top-background"
+    subtitle=""
+    topclass="service-background"
     />
-    <InfoBlock heading="About Us" />
-    <DualInfoBlock heading="Our Team"/>
+    <CourseCart mycourses={data.mycourses}/>
+    <BundleCart bundle={data.bundle}/>
   </Layout>
 )
 export const query = graphql`
 {
-  img : file(relativePath: { eq: "new.png" }) {
+  img : file(relativePath: { eq: "online_-courses_programs.png" }) {
       childImageSharp {
         fluid {
           ...GatsbyImageSharpFluid_tracedSVG

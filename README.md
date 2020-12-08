@@ -4,13 +4,9 @@
  
  Skill: Gatsby, React-js, RESTful APIs, GraphQL, ContentFul, Snip Cart, Formspree and Netlify.
  
- ![Home-Ecommerce-Website](https://user-images.githubusercontent.com/64160163/101518773-6105ef80-39a8-11eb-957a-5c7f3be9a683.png)
- 
-![About-Ecommerce-Website (1)](https://user-images.githubusercontent.com/64160163/101519198-e7223600-39a8-11eb-8300-7e3384596d59.png)
+ ![Home-Ecommerce-Website](https://user-images.githubusercontent.com/64160163/101518773-6105ef80-39a8-11eb-957a-5c7f3be9a683.png) ![About-Ecommerce-Website (1)](https://user-images.githubusercontent.com/64160163/101519198-e7223600-39a8-11eb-8300-7e3384596d59.png)
 
-![Services-Ecommerce-Website (1)](https://user-images.githubusercontent.com/64160163/101518991-a1fe0400-39a8-11eb-9283-ee7631e4a16e.png)
-
-![Contact-Ecommerce-Website (1)](https://user-images.githubusercontent.com/64160163/101519322-0e790300-39a9-11eb-8967-451ac4f5599a.png)
+![Services-Ecommerce-Website (1)](https://user-images.githubusercontent.com/64160163/101518991-a1fe0400-39a8-11eb-9283-ee7631e4a16e.png) ![Contact-Ecommerce-Website (1)](https://user-images.githubusercontent.com/64160163/101519322-0e790300-39a9-11eb-8967-451ac4f5599a.png)
 
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->

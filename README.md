@@ -3,10 +3,6 @@
  https://rishabh-chauhan-rs3020.netlify.app
  
  Skill: Gatsby, React-js, RESTful APIs, GraphQL, ContentFul, Snip Cart, Formspree and Netlify.
- A clean, beautiful, responsive and 100% customizable portfolio
-template for Software Developers!
-HitCounts NodeJS NPM Made With React Join Slack Channel For Support code style: prettier
-Netlify Status Build Status License Maintenance Website License Price
  
  # Home Page:
  ![Home-Ecommerce-Website](https://user-images.githubusercontent.com/64160163/101518773-6105ef80-39a8-11eb-957a-5c7f3be9a683.png) 
